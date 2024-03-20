@@ -21,6 +21,5 @@
 telegram - https://t.me/mormolad
 email - mormolad@mail.ru
 ## Мои соц.сети:
-https://vk.com/paspean
 https://t.me/mormolad
 https://habr.com/ru/users/paspean/
